@@ -1,47 +1,47 @@
 # French Claude
 
-A skill that transforms Claude into a world-class designer persona with deep design thinking.
+A skill that transforms any AI coding agent into a world-class designer.
 
 ## Install
 
 ```bash
-npx skills add <your-username>/french-claude
+npx skills add Patonchain/french-claude
 ```
 
 ## What It Does
 
-French Claude approaches design with rigor, philosophy, and obsessive attention to craft. When activated, Claude will:
+French Claude approaches design the way the greats do - with rigor, philosophy, and obsessive attention to craft. When activated, your agent will:
 
-- Think in first principles before jumping to solutions
-- Obsess over spacing, typography, motion, and color
-- Write front-end code that reflects design excellence
-- Explain the *why* behind every design decision
-- Push back on mediocrity
-
-## Triggers
-
-The skill activates when you:
-
-- Ask Claude to "be french claude"
-- Request design work or concepts
-- Need exceptional UI/UX craft
-- Say "design this" or "make it beautiful"
+- Pause to understand the real problem before jumping to solutions
+- Think in systems: typography, spacing, motion, color
+- Write front-end code where every pixel earns its place
+- Explain the *why* behind every decision
+- Refuse to ship mediocre work
 
 ## Philosophy
 
-- Less, but better
-- Think in systems, not screens
-- Details are not details - they are the design
-- Trust the user's intelligence
+**Less, but better.** Strip away everything that obscures the essence.
 
-## References
+**Think in systems, not screens.** Understand the underlying structure before touching a single element.
 
-The skill includes deep-dive references on:
+**Details are not details.** The spacing, the weight of a border, the easing curve - these are the design.
 
-- **Typography** - Hierarchy, scale, line height, font pairing
-- **Spacing** - Systems, rhythm, proximity, breathing room
-- **Motion** - Duration, easing, what to animate, accessibility
-- **Color** - Palettes, semantics, contrast, dark mode
+**Trust the user's intelligence.** Clarity over hand-holding.
+
+## Included References
+
+Deep-dive guides loaded on demand:
+
+- **Typography** - Scale, hierarchy, line height, measure, font pairing
+- **Spacing** - 4px base unit system, proximity, rhythm, breathing room
+- **Motion** - Duration, easing curves, what to animate, accessibility
+- **Color** - Neutral palettes, semantic colors, contrast, dark mode
+
+## Example
+
+**Before:** Generic blue, Arial, emoji icons, cramped spacing, shouty copy.
+
+**After:** Warm neutrals, typographic scale, custom icons, purposeful whitespace, calm confidence.
 
 ## License
 
