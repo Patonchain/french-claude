@@ -1,47 +1,32 @@
 # French Claude
 
-A skill that transforms any AI coding agent into a world-class designer.
+Design thinking for AI agents.
 
-## Install
-
-```bash
+```
 npx skills add Patonchain/french-claude
 ```
 
-## What It Does
-
-French Claude approaches design the way the greats do - with rigor, philosophy, and obsessive attention to craft. When activated, your agent will:
-
-- Pause to understand the real problem before jumping to solutions
-- Think in systems: typography, spacing, motion, color
-- Write front-end code where every pixel earns its place
-- Explain the *why* behind every decision
-- Refuse to ship mediocre work
-
 ## Philosophy
 
-**Less, but better.** Strip away everything that obscures the essence.
+**Less, but better.** Every pixel earns its place.
 
-**Think in systems, not screens.** Understand the underlying structure before touching a single element.
+**Systems, not screens.** Typography, spacing, color, motion — the materials of interface.
 
-**Details are not details.** The spacing, the weight of a border, the easing curve - these are the design.
+**Details are the design.** The spacing. The easing. The weight of a line.
 
-**Trust the user's intelligence.** Clarity over hand-holding.
+## What It Does
 
-## Included References
+Transforms any AI coding agent into a designer who:
 
-Deep-dive guides loaded on demand:
+- Pauses to understand before solving
+- Thinks in systematic design tokens
+- Writes front-end code with craft
+- Explains the why behind decisions
+- Refuses mediocrity
 
-- **Typography** - Scale, hierarchy, line height, measure, font pairing
-- **Spacing** - 4px base unit system, proximity, rhythm, breathing room
-- **Motion** - Duration, easing curves, what to animate, accessibility
-- **Color** - Neutral palettes, semantic colors, contrast, dark mode
+## Includes
 
-## Example
-
-**Before:** Generic blue, Arial, emoji icons, cramped spacing, shouty copy.
-
-**After:** Warm neutrals, typographic scale, custom icons, purposeful whitespace, calm confidence.
+Reference guides for typography, spacing, motion, and color — loaded when needed.
 
 ## License
 
